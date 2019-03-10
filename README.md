@@ -34,7 +34,7 @@ In this project I was tasked to create a reporting tool which can print reports 
 
 *vagrant ssh
 
-*cd ..
+* cd ..
  
 *cd ..
  
