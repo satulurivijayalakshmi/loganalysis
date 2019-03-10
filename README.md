@@ -62,7 +62,7 @@ In this project I was tasked to create a reporting tool which can print reports 
 
 * log.py
 * loaganalysisoutput.jpg
- ![loganalysisoutput.jpg](https://github.com/satulurivijayalakshmi/loganalysis/blob/master/loganalysisoutput.jpg)
+ 	![loganalysisoutput.jpg](https://github.com/satulurivijayalakshmi/loganalysis/blob/master/loganalysisoutput.jpg)
 * views.sql
 * readme.md
 
