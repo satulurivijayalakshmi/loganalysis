@@ -82,7 +82,7 @@ In this project I was tasked to create a reporting tool which can print reports 
 		ORDER BY authors.id;
 
 
-### 	
+### create files more than 1% error	
 		SELECT Date,Total,Error from
 		(select time,date as Date, count(status) as Total,
 		sum(case when status = '404 NOT FOUND' then 1 else 0 end) as Error from log
